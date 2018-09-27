@@ -1,0 +1,9 @@
+---
+title: "Other"
+author: "Elijah Bainbridge"
+date: "9/26/2018"
+output: html_document
+---
+Interesting links: 
+
+[Elon Musk TED Talk](https://www.youtube.com/watch?v=zIwLWfaAg-8)

@@ -1,0 +1,6 @@
+---
+title: "Home"
+author: "Elijah Bainbridge"
+date: "9/25/2018"
+output: html_document
+---
