@@ -4,6 +4,19 @@ author: "Elijah Bainbridge"
 date: "9/26/2018"
 output: html_document
 ---
-Interesting links: 
+Links
 
-[Elon Musk TED Talk](https://www.youtube.com/watch?v=zIwLWfaAg-8)
+[Introduction to R](https://www.datacamp.com/statement-of-accomplishment/course/a0ff01787695d9a0fbbd241caf53f5785b3c20bf)
+
+
+[Working with R Studio IDE Part 1](https://www.datacamp.com/statement-of-accomplishment/course/7129abb17940731468e3637f7247fada644d390f)
+
+
+[Article on Bike Sharing systems](https://www.vox.com/science-and-health/2017/3/9/14846904/bike-sharing-systems-snapshot)
+
+
+[ELon Musk Interview](https://www.nytimes.com/2018/08/16/business/elon-musk-interview-tesla.html)
+
+
+[Malcolm Gladwell Interview](https://www.newyorker.com/news/news-desk/the-new-yorker-interview-david-remnick-talks-to-malcolm-gladwell-about-writing-reporting-and-being-wrong)
+

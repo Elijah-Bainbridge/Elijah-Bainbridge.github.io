@@ -5,6 +5,6 @@ date: "9/20/2018"
 output: html_document
 ---
 
-I am a senior Economics Student at Appalachian State University. I am from Durham, North Carolina. I am interested in financial markets and after I graduate I hope to work in data analytics. I also love hiking, kayaking, and cooking. 
+I am a senior Economics major with a minor in Statistics at Appalachian State University . I am from Durham, North Carolina. I am interested in financial markets and after I graduate I hope to work in data analytics. I also love hiking, kayaking, and cooking. 
 
 ![](https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/28276797_10213318978361661_3522236098861189062_n.jpg?_nc_cat=100&oh=034a4c65e1a8ff101768755eb78e33fb&oe=5C613184)
